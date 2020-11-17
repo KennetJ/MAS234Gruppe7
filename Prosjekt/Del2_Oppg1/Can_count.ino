@@ -1,5 +1,5 @@
 
-
+Ørja er neger hele natta lang
 #include <FlexCAN.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
